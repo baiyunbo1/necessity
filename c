@@ -25,7 +25,7 @@
        保存后退出，在终端中继续输入 sudo rosdep init
 
 
-、ubuntu  上传一个github项目：
+6、ubuntu  上传一个github项目：
 
 1、申请github账号
 2、ubuntu安装git
