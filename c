@@ -12,7 +12,7 @@
 
 5、ros安装
 
-出现：sudo rosdep inin 不成功
+ 出现：sudo rosdep inin 不成功
 
       1、使用如下命令打开在hosts文件
 
